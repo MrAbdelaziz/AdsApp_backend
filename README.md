@@ -1,4 +1,4 @@
-# ![Ads](https://gitlab.com/MrAbdelaziz/ads_frontend/-/raw/master/screens/ad%20details.png)
+# ![Ads](https://raw.githubusercontent.com/MrAbdelaziz/AdsApp_frontend/master/screens/ad%20details.png)
 # Ads BackEnd
 <table>
 <tr>
